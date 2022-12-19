@@ -1,0 +1,72 @@
+#logo{
+    height: 107px;
+    position: absolute;
+    top: 1vh;
+    left: 12vh;
+}
+.img{
+    display: flex;
+}
+h3{
+    font-size: 39px;
+    position: relative;
+    top: -2vh;
+    left: 26vh;
+
+}
+/* body{
+     background-color: #ddd; 
+    background:url("Images/Blue\ Yellow\ Modern\ Webinar\ Facebook\ Post.png");
+    background-size: cover; */
+
+.page{
+    background:url("Images/Blue\ Yellow\ Modern\ Webinar\ Facebook\ Post.png");
+    background-size: cover;
+}
+.f{
+    max-width: 250px;
+    height: 40vh;
+    border: none;
+    padding: 5px;
+    display: block;
+    position: relative;
+    left: 137vh;
+    top: -10vh;
+}
+.txt{
+    position:relative;
+    top:17vh;
+    color:white;
+}
+.txt1{
+    position:relative;
+    top:-23vh;
+    font-size:4vh;
+    color:white;
+}
+.img1{
+    display: flex;
+    position:relative;
+    top:4vh;
+    left:118vh;
+}
+h1{ 
+    font-size: 75px;
+    position: relative;
+    top: 8vh;
+    left: 41vh;
+    width:24vh;
+    padding:0px;
+    margin:0px;
+    color:white;
+}
+h6{ 
+    font-size: 65px;
+    position: relative;
+    top: -43vh;
+    left: 38vh;
+    width: 24vh;
+    padding: 0px;
+    margin: 0px;
+    color: black;
+}
